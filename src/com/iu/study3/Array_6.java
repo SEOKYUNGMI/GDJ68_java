@@ -27,6 +27,8 @@ public class Array_6 {
 				System.out.println(ars[i][j]);
 			}
 		}
+		int a = 0;
+//		a = a+1; System.out.println(a); a에 값을 넣거나 출력을 해줘야함.
 		
 		
 

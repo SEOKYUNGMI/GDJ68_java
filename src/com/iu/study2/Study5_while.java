@@ -24,8 +24,7 @@ public class Study5_while {
 			}
 			
 		}//while 끝
-		
-		
+				
 	}
 
 }
