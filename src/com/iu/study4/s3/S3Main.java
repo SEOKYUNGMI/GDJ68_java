@@ -38,7 +38,7 @@ public class S3Main {
 //		car2.info();
 //		Car car3 = new Car("SL2", "BLACK");
 //		car3.info();
-//		Car car4 =new Car("BANZ", "Q2", "RED", 4000);
+//		Car car4 = new Car("Q2", "RED", 4000);
 //		car4.info();
 		//---------------------------핸드폰예제---------------------------
 		Phone phone = new Phone();

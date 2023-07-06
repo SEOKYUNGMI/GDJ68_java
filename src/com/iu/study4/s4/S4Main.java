@@ -16,7 +16,7 @@ public class S4Main {
 		
 		
 		String name = "";			//JRE System Library안에 java.base안에
-									//java.lang 패키지에 속해있기 때문에 import 안해도 됨 
+									//java.lang 패키지에 속해있기 때문에 String을 import 안해도 됨 
 
 	}
 
