@@ -3,7 +3,7 @@ package com.iu.study4.s2;
 public class Chef {
 
 	String name;
-	
+	//라면을 하나 만들때
 	public void makeRamyun2(Ramyun [] ramyuns) {
 		for(int i=0;i<ramyuns.length;i++) {
 			Ramyun ramyun = new Ramyun();
@@ -12,7 +12,7 @@ public class Chef {
 			ramyuns[i].price = 3000;
 		}
 	}
-	
+	//라면을 count 수 대로 만들때
 	public Ramyun [] makeRamyun(int count) {			//()인원수
 		
 //		Ramyun ramyun = new Ramyun();		// 객체 생성

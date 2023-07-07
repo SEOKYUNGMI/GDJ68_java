@@ -29,7 +29,7 @@ public class Array_5 {
 			//...
 		}
 		for(int i=0;i<5;i++) {
-			for(int j=i+1;j<6;j++) {		//i=0이기 때문에 i+1로 한번 더 돌았을때 1
+			for(int j=i+1;j<6;j++) {		//i=0이기 때문에 i+1로 한번 더 돌았을때 1이되게 함
 				if(nums[i]>nums[j]) {
 					int tmp=nums[i];
 					nums[i]=nums[j];

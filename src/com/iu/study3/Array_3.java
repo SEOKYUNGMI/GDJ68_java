@@ -3,8 +3,9 @@ package com.iu.study3;
 public class Array_3 {
 
 	public static void main(String[] args) {
+		//nums : 4칸 만들기
 		int [] nums = {1,2,3,4};
-		System.out.println(nums.length);       //배열의 길이를 알 수 없을때 .length를 씀.
+		System.out.println(nums.length);       //배열의 길이를 알 수 없을때 .length를 씀.  출력문 nums.length = 4
 
 		//nums : 5칸 만들기
 
@@ -18,7 +19,7 @@ public class Array_3 {
 		
 		nums=copyNums;
 		
-		//nums : 4칸 만들기
+		//nums : 다시 4칸 만들기
 		
 		copyNums = new int [nums.length-1]; //4
 		

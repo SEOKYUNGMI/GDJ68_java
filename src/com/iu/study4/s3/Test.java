@@ -43,7 +43,7 @@ public class Test {
 		System.out.println(this.num1+num2);		//참조변수 this 생략가능
 		System.out.println(this);
 		method2();
-		this.method2();
+//		this.method2();
 	}
 	
 	public void method2() {
